@@ -27,3 +27,14 @@ tutorial. The tutorial builds increasingly featureful implementations of
 
 [game-of-life]: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 [tutorial]: https://rustwasm.github.io/book/game-of-life/introduction.html
+
+## Run this code from the dev container
+```
+wasm-build
+```
+
+```
+cd www/
+npm install
+npm run start
+```
